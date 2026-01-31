@@ -10,7 +10,8 @@ Glucose Drift: Identifying the non-linear upward trajectory in blood glucose.
 Weight Velocity: Monitoring the unexplained decline in BMI (Cachexia).
 
 
-<img width="637" height="802" alt="image" src="https://github.com/user-attachments/assets/c5d9404f-eb54-425c-a8db-2ea623b2f3d5" />
+<img width="887" height="300" alt="image" src="https://github.com/user-attachments/assets/7964cf2d-3a92-468f-86f1-3a74e6dd1ffd" />
+
 
 
 2. Technical Architecture & Clinical Reasoning
